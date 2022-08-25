@@ -5,7 +5,8 @@ Steps to run
         
 2. Add the Java jdk in the project structure.
         
-3. Go to the WordCountTest.java class. You might have to import the junit jar in the classpath. Check WordCount.java as well and make sure all the classes are imported.
-   Make sure all the necessary classes are imported.
+3. Go to the WordCountTest.java class. You might have to import the junit jar in the classpath. Check WordCount.java as well and make sure all the classes are imported. Make sure all the necessary classes are imported.
+
+4. As the programming is developed using TDD approach, there are three test cases in the WordCountTest.java class
    
 4. Run the main method in WordCount.java. and that should print the expected output for the given string "the cat is in the bag".
