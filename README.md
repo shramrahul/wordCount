@@ -9,4 +9,12 @@ Steps to run
 
 4. As the programming is developed using TDD approach, there are three test cases in the WordCountTest.java class
    
-4. Run the main method in WordCount.java. and that should print the expected output for the given string "the cat is in the bag".
+5. Run the main method in WordCount.java. and that should print the expected output for the given string "the cat is in the bag".
+        
+        Expected Output
+        
+                2 the
+                1 in
+                1 cat
+                1 bag
+                1 is
